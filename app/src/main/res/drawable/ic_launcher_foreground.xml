@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Frosted glass card silhouette -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:strokeColor="#99FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M30,24 L78,24 A8,8 0 0,1 86,32 L86,76 A8,8 0 0,1 78,84 L30,84 A8,8 0 0,1 22,76 L22,32 A8,8 0 0,1 30,24 Z" />
+    <!-- Plus symbol top-left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,33 L41,33 L41,39 L47,39 L47,43 L41,43 L41,49 L37,49 L37,43 L31,43 L31,39 L37,39 Z" />
+    <!-- Minus symbol bottom-left -->
+    <path
+        android:fillColor="#7DD3FC"
+        android:pathData="M31,64 L47,64 L47,68 L31,68 Z" />
+    <!-- Fraction Pie / Circle top-right -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M67,32 A10,10 0 1,1 57,42 L67,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,30 A10,10 0 0,0 55,40 L65,40 Z" />
+    <!-- Equals symbol bottom-right -->
+    <path
+        android:fillColor="#6EE7B7"
+        android:pathData="M57,61 L75,61 L75,65 L57,65 Z M57,68 L75,68 L75,72 L57,72 Z" />
+</vector>

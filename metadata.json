@@ -1,0 +1,6 @@
+{
+  "name": "CristalMate",
+  "description": "Aplicación educativa interactiva de matemáticas para primaria con estética Liquid Glass: Sumas, Restas, Fracciones y Gráficas Dinámicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

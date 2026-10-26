@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CristalMate</string>
+    <string name="home_subtitle">Aprende y practica matemáticas paso a paso</string>
+    <string name="home_choose_module">Selecciona tu módulo de aprendizaje</string>
+    <string name="module_grade_2_badge">Grado Segundo</string>
+    <string name="module_grade_2_title">Sumas y Restas</string>
+    <string name="module_grade_2_desc">Practica adición (+) y sustracción (-) con números enteros del 1 al 99.</string>
+    <string name="module_grade_4_badge">Grado Cuarto</string>
+    <string name="module_grade_4_title">Fracciones y Gráficas</string>
+    <string name="module_grade_4_desc">Suma, resta, multiplica y divide fracciones con gráficas planas de pastel y barras.</string>
+
+    <string name="submenu_title">Selecciona la Modalidad</string>
+    <string name="mode_system_title">Modo Sistema (Aleatorio)</string>
+    <string name="mode_system_desc">La aplicación genera los ejercicios matemáticos de forma automática y dinámica.</string>
+    <string name="mode_creator_title">Modo Creador (Manual)</string>
+    <string name="mode_creator_desc">El estudiante, docente o padre introduce manualmente las cifras y el operador.</string>
+
+    <string name="mode_system_short">Modo Sistema</string>
+    <string name="mode_creator_short">Modo Creador</string>
+
+    <string name="btn_verify">Comprobar</string>
+    <string name="btn_next_exercise">Nuevo Ejercicio</string>
+    <string name="btn_lock_creator">¡Listo para Resolver!</string>
+    <string name="btn_edit_creator">Editar Operación</string>
+    <string name="btn_clear_creator">Limpiar Todo</string>
+    <string name="btn_swap_numbers">Invertir Números</string>
+
+    <string name="feedback_correct_title">¡Excelente trabajo! Respuesta Correcta</string>
+    <string name="feedback_incorrect_title">¡Casi! Revisa tu respuesta e inténtalo de nuevo</string>
+    <string name="feedback_subtraction_rule">Regla: En la resta, el minuendo debe ser mayor o igual al sustraendo.</string>
+    <string name="feedback_range_rule">Ingresa números del 1 al 99 en ambas casillas para habilitar el resultado.</string>
+    <string name="feedback_fraction_rule">Ingresa numeradores y denominadores mayores a 0 para habilitar el resultado.</string>
+    <string name="feedback_fraction_sub_rule">En la resta de fracciones, la primera fracción debe ser mayor o igual a la segunda.</string>
+
+    <string name="chart_type_auto">Gráfica Automática</string>
+    <string name="chart_type_pie">Pastel (Circular)</string>
+    <string name="chart_type_bar">Barras (Segmentos)</string>
+
+    <string name="key_backspace_desc">Borrar último dígito</string>
+    <string name="key_toggle_num_den">Num ⇅ Den</string>
+    <string name="key_toggle_num_den_desc">Alternar entre numerador y denominador</string>
+    <string name="cd_back_button">Volver atrás</string>
+</resources>
